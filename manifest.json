@@ -1,0 +1,10 @@
+{
+  "Name": "Tree Shake Products",
+  "Author": "EliteWise",
+  "Version": "1.0.0",
+  "Description": "Gives mature trees a small daily chance to drop their tapper product when shaken.",
+  "UniqueID": "EliteWise.TreeShakeProducts",
+  "EntryDll": "TreeShakeProducts.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
